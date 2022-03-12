@@ -3,7 +3,7 @@ import React, {
   useRef,
   useState,
   useCallback,
-  HtmlHTMLAttributes,
+ 
 } from 'react';
 
 import { useField } from '@unform/core';
